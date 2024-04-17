@@ -1,0 +1,53 @@
+0 Abelia
+1 Acanthus
+2 African Violet
+3 Agapanthus
+4 Agave
+5 Allium
+6 Alocasia
+7 Aloe
+8 Anemone
+9 Annual Leucanthemum
+10 Anthurium
+11 Aucuba
+12 Auriculas
+13 Border Buttercups
+14 Bromeliad
+15 Brugmansia
+16 Calamagrostis
+17 Calendula
+18 Camellia
+19 Ceanothus
+20 Conservatory Passion
+21 Daffodil
+22 Echeveria
+23 Echinacea
+24 Ferocactus
+25 Foxglove
+26 Garrya
+27 Gerbera
+28 Gunnera
+29 Hoya
+30 Hypoestes
+31 Knifophia
+32 Lavatera
+33 Miscanthus
+34 Monarda
+35 Nerine
+36 Nigella
+37 Phlox
+38 Poinsettia
+39 Pyracantha
+40 Rose
+41 Sansevieria
+42 Scabious
+43 Sea Holly
+44 Sempervivum
+45 Spider
+46 Strelitzia
+47 String of Beads
+48 Tree Peonies
+49 Tulip
+50 Venus Fly Trap
+51 Veronica
+52 Yew
